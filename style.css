@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(115, 255, 0);
+    text-align: center;
+}
+
+h2{
+   color: rgb(51, 0, 255);
+   background-color: aliceblue;
+}
+
+.heading button{
+   float: right;
+   font-size: 18px;
+}
+
+p{
+   font-size: 20px;
+}
